@@ -76,9 +76,9 @@ function Contact() {
         </div>
         <div className="col-md-6">
           <h2>Contact Info</h2>
-          <p>Phone: (123) 456-7890</p>
+          <p>Phone: +91-9876543210</p>
           <p>Email: info@todaysdental.com</p>
-          <p>Address: 123 Smile St, Dental City</p>
+          <p>Address: Dental, Bengaluru</p>
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.086678734143!2d-122.4194156846813!3d37.77492977975968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzfCsDQ2JzI5LjciTiAxMjLCsDI1JzA5LjEiVw!5e0!3m2!1sen!2us!4v1635789471234!5m2!1sen!2us"
             width="100%"
